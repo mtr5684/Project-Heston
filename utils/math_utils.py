@@ -1,6 +1,7 @@
 """Shared mathematical utilities for the Heston project."""
 
 import os
+
 import numpy as np
 from scipy.stats import norm
 
